@@ -1,7 +1,7 @@
 import React from 'react';
 import { signInWithGooglePopup, createUserDocumentFromAuth } from '../../utils/firebase/firebase';
 import SignUpForm from '../../components/SignUpForm/SignUpForm';
-
+//GIT MERGE CONFLICT
 const SignIn = () => {
 
   const logGoogleUser = async () => {
