@@ -4,7 +4,7 @@ import { createAuthUserWithEmailAndPassword, createUserDocumentFromAuth } from '
 import FormInput from '../FormInput/FormInput'
 import './SignUpForm.scss'
 import Button from '../Button/Button'
-//Test Commit
+
 
 const defaultFormFields = {
     displayName: '',
